@@ -254,10 +254,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="752" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -485,7 +486,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
+    <frame x="1" y="1" width="1364" height="734" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
@@ -496,8 +497,8 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924013" weight="0.32715008" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32715008" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2779456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33739132" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28177643" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Nativescript Palette" order="4" weight="0.3290469" />
       <window_info anchor="right" id="Database" order="3" weight="0.32854986" />
@@ -644,6 +645,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#353#453#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -655,6 +660,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#519#723#0" expanded="true" />
+            <element signature="e#766#1856#0" expanded="true" />
+            <element signature="e#1924#2337#0" expanded="true" />
+            <element signature="e#2406#3108#0" expanded="true" />
+            <element signature="e#3168#4209#0" expanded="true" />
+            <element signature="e#4272#4638#0" expanded="true" />
+            <element signature="e#4708#5542#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
